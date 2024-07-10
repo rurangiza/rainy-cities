@@ -1,0 +1,16 @@
+{
+  "name": "rainy-cities",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^20.14.10",
+    "csv-parser": "^3.0.0"
+  }
+}
