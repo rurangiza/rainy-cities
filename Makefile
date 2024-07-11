@@ -9,6 +9,7 @@ install:
 	npm install -g typescript
 	npm install -g ts-node
 	npm install -g nodemon
+	npm install @types/node express @types/express
 
 setup:
 	npm init --yes
